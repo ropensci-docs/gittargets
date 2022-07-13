@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "13a9cd86dc88f869992001da84d9ff3965f29375",
+    "author": "wlandau <will.landau@gmail.com>",
+    "time": "2022-02-13 00:32:02",
+    "files": 2,
+    "merge": false,
+    "message": "Dev version\n"
+  },
+  "repo": "https://github.com/ropensci/gittargets",
+  "pkg": "gittargets"
+}
