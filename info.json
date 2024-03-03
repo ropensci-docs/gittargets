@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "013ed97c88c78d466edf458b54bcdde95d5061a0",
+    "author": "wlandau-lilly <will.landau@lilly.com>",
+    "time": "2023-12-04 19:42:10",
+    "files": 2,
+    "merge": false,
+    "message": "Version and news\n"
+  },
+  "repo": "https://github.com/ropensci/gittargets",
+  "pkg": "gittargets"
+}
