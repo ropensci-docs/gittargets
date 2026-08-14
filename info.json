@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c678c41c0f2e4357e817eb61c3a35f1bdbc305f3",
+    "author": "Will Landau <1580860+wlandau@users.noreply.github.com>",
+    "time": "2024-07-17T17:34:55Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #17 from ropensci/pkgdown\n\ndocs: fix pkgdown config"
+  },
+  "repo": "https://github.com/ropensci/gittargets",
+  "pkg": "gittargets",
+  "time": "2026-08-14T18:45:36Z"
+}
